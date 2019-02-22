@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Ming/Desktop/hw3/main.cpp
+iostream
+-
+limits.h
+-
+string.h
+-
+queue
+-
+stdio.h
+-
+stdlib.h
+-
+

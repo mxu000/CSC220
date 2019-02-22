@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--stack,1073741824 CMakeFiles/hw3.dir/main.cpp.o  -o hw3.exe -Wl,--out-implib,libhw3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
